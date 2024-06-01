@@ -1,2 +1,7 @@
 127.0.0.1 localhost
 127.0.0.1 www.a.com
+::1                 ip6-loacahost
+	
+13.224.163.26  api.themoviedb.org
+13.224.163.26  image.tmdb.org
+ 
